@@ -1,5 +1,5 @@
 # saltstack-powerdns-module
-Execution and state modules for powerdns PowerDNS Authoritative Server 
+Execution and state modules for PowerDNS Authoritative Server 
 ------------------------------
 ### Usage:
 ```
